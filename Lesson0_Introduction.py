@@ -75,6 +75,8 @@ print("'Hello!")
 
 print("5")
 
+print("5000+2000")
+
 # Even though you and I interpret this as the number 5, 
 # Python interprets this as a string 
 # Because remember, a string is a string of characters.
@@ -94,6 +96,7 @@ print("5")
 
 print("Hello!")
 print("These strings are going to be printed from 1 to 3.")
+
 print("1")
 print("3")
 print(2)
@@ -104,6 +107,7 @@ print(2)
 
 print("Hello!")
 print("These strings are going to be printed from 1 to 3.")
+
 print("1")
 print("2")
 print("3")
